@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556127907 source:d:\dipta\workspace\datastructure\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
